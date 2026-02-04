@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Focused;Always+Learning%2C+Always+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Aspiring+Software+Engineer;Driven+by+curiosity+and+continuous+improvement;Always+learning%2C+always+building&cursor=true" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
 </p>
@@ -13,10 +14,11 @@
 <p align="center">
   <i>
     Aspiring Software Engineer.  
-    Focused on backend systems.  
+    Driven by curiosity and continuous improvement.  
     Always learning, always building.
   </i>
 </p>
+
 
 <br/>
 
