@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 🎓 Final Year Computer Science Student at **GLA University**  
 💻 Full Stack Developer (**React | Node | MongoDB | Java | Spring Boot**)  
@@ -94,7 +94,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></i>
-</div>
