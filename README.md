@@ -23,35 +23,35 @@
 
 ---
 
-## 🛠 My Skill Set  
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</p>
 
-### Frontend  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="45"/>  
-</div>
+### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
-</td>
-<td valign="top" width="33%">
+### DevOps & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
 
-### Backend  
-<div align="center">  
-<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="45"/>  
-</div>
-
-</td>
-<td valign="top" width="33%">
 
 ### DevOps & Tools  
 <div align="center">  
