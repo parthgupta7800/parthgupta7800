@@ -54,7 +54,7 @@
 
 
 ### DevOps & Tools  
-<div align="center">  
+<div align="left">  
 <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="45"/>  
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45"/>  
 <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="45"/>  
