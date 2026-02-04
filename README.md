@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Aspiring+Software+Engineer;Driven+by+curiosity+and+continuous+improvement;Always+learning%2C+always+building&cursor=true" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
-</p>
 
 <h1 align="center">Parth Gupta</h1>
 <h3 align️ align="center">Software Engineer</h3>
