@@ -71,21 +71,22 @@
 
 <p align="center">
   <a href="https://github.com/parthgupta7800">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/parthgupta7800">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:guptaparth7800@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/GuptaRth/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="48"/>
   </a>
 </p>
+
 
 ---
 
