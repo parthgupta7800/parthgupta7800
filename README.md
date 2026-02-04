@@ -67,30 +67,25 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://github.com/parthgupta7800">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/parthgupta7800">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:guptaparth7800@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="42"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://leetcode.com/u/GuptaRth/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="42"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
 </p>
 
 ---
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthgupta7800&style=flat-square&color=blue"/>
-</div>
-
----
