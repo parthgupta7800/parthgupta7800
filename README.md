@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+Focused;Always+Learning%2C+Always+Building" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
+</p>
+
 <h1 align="center">Parth Gupta</h1>
 <h3 align️ align="center">Software Engineer</h3>
 
@@ -17,7 +24,7 @@
 
 ## 👋 About Me
 
-I am a **Software Engineer** with a strong foundation in **full-stack development and backend engineering**.  
+I am a **Software Engineer** with a strong foundation in **full-stack development and cloud computing**.  
 I enjoy designing clean architectures, writing maintainable code, and solving problems that scale beyond the classroom.
 
 My current focus is on:
