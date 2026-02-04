@@ -1,92 +1,75 @@
-<h1 align="center">Hi 👋, I'm Parth Gupta</h1>
-<h3 align="center">Final Year CSE Student | Full Stack Developer | Java & MERN Stack</h3>
+<h1 align="center">Parth Gupta</h1>
+<h3 align️ align="center">Software Engineer</h3>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650"/>
-</div>
+<p align="center">
+  <i>
+    Aspiring Software Engineer.  
+    Focused on backend systems.  
+    Always learning, always building.
+  </i>
+</p>
 
 <br/>
 
-<div align="left">
+---
 
-🎓 Final Year Computer Science Student at **GLA University**  
-💻 Full Stack Developer (**React | Node | MongoDB | Java | Spring Boot**)  
-🧠 Solved **350+ LeetCode Problems**  
-🚀 Built **Real-Time Chat App** using **Socket.IO & MERN Stack**  
-📚 Learning **System Design, Microservices & Cloud Computing**  
-🏆 **Coursera Certified Web Developer**  
-🤝 Mentor at NGO **"Udaaan Aasma Tak"**
+## 👋 About Me
 
-</div>
+I am a **Software Engineer** with a strong foundation in **full-stack development and backend engineering**.  
+I enjoy designing clean architectures, writing maintainable code, and solving problems that scale beyond the classroom.
+
+My current focus is on:
+- Strengthening my **Java fundamentals**
+- Learning **how real-world applications are structured and how different services work together**
+- Getting comfortable with **cloud platforms**
+- Practicing **data structures and problem solving**
+
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</p>
+**Languages & Core**  
+Java · JavaScript · SQL
 
-### Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+**Frontend**  
+React · HTML · CSS · Tailwind CSS
 
-### DevOps & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-</p>
+**Backend**  
+Node.js · Express · MongoDB · MySQL · REST APIs
 
-
-### DevOps & Tools  
-<div align="left">  
-<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="45"/>  
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="45"/>  
-</div>
-
-</td>
-</tr>
-</table>
+**Tools & Platforms**  
+Git · Linux · AWS · Azure · Postman · VS Code
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/parthgupta7800">
-    <img src="https://skillicons.dev/icons?i=github" height="48"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/parthgupta7800">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:guptaparth7800@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/GuptaRth/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="48"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
+
+## 🎯 Engineering Philosophy
+
+> “Write code as if the next person to maintain it is someone who knows where you live.”
+
+I believe in:
+- Simplicity over cleverness  
+- Readability over shortcuts  
+- Systems that grow gracefully, not just quickly  
 
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthgupta7800&style=flat-square&color=grey"/>
+</div>
